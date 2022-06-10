@@ -10,4 +10,4 @@ def index():
 def msg():
     return 'Usando os conceitos de deploy..!!!'
 
-app.run();
+#app.run();
