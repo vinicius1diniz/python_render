@@ -1,1 +1,1 @@
-Projeto Web Python - Heroku ( DEVOPS )
+Projeto Web Python - ( DEVOPS )
